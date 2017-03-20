@@ -1,0 +1,79 @@
+.profile-pic{ 
+max-width: 100%;
+}
+
+/* image to take max 100% of the width of its parameters */
+
+.mail-icon{
+	color: red;
+}
+
+.soundcloudicon {
+	color: #F65314 ;
+}
+.underline-text{
+	text-decoration: underline;
+}
+
+.background{
+	background-image: url("../img/backgroundpic.jpg");
+}
+
+.social-icon .fa:hover{
+	color: darkgreen ;
+}
+
+.mycustomprogressbar1 {
+	background-color: green ;
+}
+.mycustomprogressbar2 {
+	background-color: red ;
+}
+.mycustomprogressbar3 {
+	background-color: blue ;
+}
+.mycustomprogressbar4 {
+	background-color: purple ;
+}
+.box-colour {
+	background-color: #caff70;
+}
+.navbarfont {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.generalfont {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px ;
+}
+
+.card {
+	margin-top: 10px ;
+	margin-bottom: 10px ;
+}
+.scmargins {
+	margin-top: 10px ;
+	margin-bottom: 10px ;
+}
+.vidmargin {
+	margin-top: 20px ;
+	margin-right: 20px ;
+	border: 10px #caff70 solid ;
+}
+.vinylpic {
+	max-width: 100% ;
+	margin-top: 20px ;
+	margin-right: 10px ;
+	border: 10px #caff70 solid ;
+}
+.mediapagebackground {
+	background-color: grey;
+}
+.media-page-images {
+	max-height: 100%;
+	max-width: 100%;
+	border: 10px black solid;
+	margin-top: 20px ;
+	margin-right: 20px;
+	margin-left: 5px ;
+	background-color: black ;
+}
