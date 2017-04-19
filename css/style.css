@@ -1,5 +1,5 @@
 .profile-pic{ 
-max-width: 100%;
+max-width: 80%;
 }
 
 /* image to take max 100% of the width of its parameters */
@@ -8,6 +8,9 @@ max-width: 100%;
 	color: red;
 }
 
+.insta-icon{
+	color: black;
+}
 .soundcloudicon {
 	color: #F65314 ;
 }
