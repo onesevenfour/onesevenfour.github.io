@@ -52,6 +52,11 @@ max-width: 80%;
 	font-size: 15px ;
 }
 
+.card-text2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10px ;
+}
+
 .card {
 	margin-top: 10px ;
 	margin-bottom: 10px ;
